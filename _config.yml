@@ -15,7 +15,8 @@ description: Lab 05 Project
 author: Emily Echandia
 
 # Define site url
-url: https://emilycmacadam-cell.github.io/beautiful-jekyll/
+url: https://emilycmacadam-cell.github.io
+baseurl: /beautiful-jekyll
 
 # --- List of links in the navigation bar --- #
 
